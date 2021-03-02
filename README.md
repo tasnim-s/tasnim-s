@@ -1,5 +1,4 @@
-### Hi there 👋
-Hello there! I'm a software engineer with a background in chemical engineering. I recently graduated from App Academy, a highly selective coding bootcamp where I learned JavaScript, React, Redux, Node, SQL, MongoDB, Ruby on Rails and AWS. I am currently seeking a a full-stack position where I can grow as a software engineer and create technologies that make the lives of my community better.
+### Hello there! I'm a software engineer with a background in chemical engineering. I recently graduated from App Academy, a highly selective coding bootcamp where I learned JavaScript, React, Redux, Node, SQL, MongoDB, Ruby on Rails and AWS. I am currently seeking a a full-stack position where I can grow as a software engineer and create technologies that make the lives of my community better!
 
 <!--
 **tasnim-s/tasnim-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
